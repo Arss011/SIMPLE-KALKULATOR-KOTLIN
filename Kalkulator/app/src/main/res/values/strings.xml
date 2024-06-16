@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kalkulator</string>
+    <string name="simple_kalkulator">Simple Kalkulator</string>
+    <string name="operatorKali">*</string>
+</resources>
